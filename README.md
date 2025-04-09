@@ -51,9 +51,10 @@
 * [x] Прокачать свой профиль на Github
 * [ ] Изучить ИБ и DevOps методологии
 * [ ] Создать свой первый проект на Github
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeonidUspeshny)](https://github.com/LeonidUspeshny/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidUspeshny&layout=compact)](https://github.com/LeonidUspeshny/github-readme-stats)
+
+
 <!-- TODO-IST:END -->
 <!--
 **LeonidUspeshny/LeonidUspeshny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
