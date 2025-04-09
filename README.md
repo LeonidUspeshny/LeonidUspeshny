@@ -1,5 +1,6 @@
-### Hi there 👋
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Leonid</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">DevOpsSec student, IT news writer from Russia 🇷🇺</h3>
 <a href="https://t.me/Ivanivanov1973">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -9,7 +10,7 @@
 
 <br />
 
-Привет, меня зовут Леонид, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Привет, меня зовут Леонид, я студент. Сейчас учусь на DevOps-специалиста, а также прохожу курс по Информационной Безопасности. Изучаю Архитектуру Информационных Технологий и ещё несколько интересных вещей.
 
 <br />
 
