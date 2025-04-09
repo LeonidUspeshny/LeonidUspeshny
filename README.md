@@ -53,6 +53,12 @@
 * [ ] Создать свой первый проект на Github
 [![trophy](https://github-profile-trophy.vercel.app/?username=LeonidUspeshny)](https://github.com/LeonidUspeshny/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidUspeshny&layout=compact)](https://github.com/LeonidUspeshny/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonidUspeshny&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonidUspeshny&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonidUspeshny&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonidUspeshny&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeonidUspeshny&theme=solarized_dark)
+
 
 
 <!-- TODO-IST:END -->
